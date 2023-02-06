@@ -1,5 +1,5 @@
 function prname(name) {
-	console.log(name)
+	console.log("Hello " + name)
 }
 
 module.exports = prname
